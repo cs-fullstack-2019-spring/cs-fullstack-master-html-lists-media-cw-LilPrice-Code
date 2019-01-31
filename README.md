@@ -1,3 +1,7 @@
+### 0 POINTS
+### KEY: Expected output for # 1 incorrect and list incorrectly formatted. Review HTML lists. https://learn.shayhowe.com/html-css/creating-lists/
+### No submission for #2
+
 # HTML Lists/Media Graded Class Work
 
 ### Exercise 1:
